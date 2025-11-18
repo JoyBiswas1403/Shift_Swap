@@ -1,4 +1,4 @@
-# Shift Swap App
+# Shift Swap 
 
 Full‑stack app for managing work events and requesting shift swaps between users.
 
