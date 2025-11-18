@@ -1,4 +1,4 @@
-# All Purpose Flour — Shift Swap App
+# Shift Swap App
 
 Full‑stack app for managing work events and requesting shift swaps between users.
 
